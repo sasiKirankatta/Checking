@@ -1,6 +1,6 @@
 package org.infinite.checking;
 
-public class Checking {
+public class checking {
 
 
 	public static void main(String[] args) {
@@ -8,8 +8,8 @@ public class Checking {
 			public void fruits(){
 				int a=4;
 				int b=5;
-				int c=a+b;
-			  System.out.println("answer:" );
+				int c;
+			  System.out.println("answer:" )
 			}
 			
 		}
